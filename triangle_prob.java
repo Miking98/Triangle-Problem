@@ -40,6 +40,6 @@ public class triangle_prob {
             }
         }
         
-        System.out.println("Highest possible total: "+triangle_array[0][0]);
+        System.out.println("Maximum cost to traverse triangle: "+triangle_array[0][0]);
     }
 }
